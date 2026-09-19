@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "updated": "2026-09-19",
+  "direct": [
+    "sberbank.ru", "sber.ru", "online.sberbank.ru",
+    "gosuslugi.ru", "esia.gosuslugi.ru", "lk.gosuslugi.ru",
+    "digital.gov.ru", "nalog.gov.ru", "mos.ru",
+    "yandex.ru", "ya.ru", "yandex.net", "yastatic.net",
+    "vk.com", "ok.ru", "mail.ru",
+    "ozon.ru", "wildberries.ru", "avito.ru",
+    "mts.ru", "beeline.ru", "megafon.ru",
+    "ngenix.net", "cdn.ngenix.net"
+  ]
+}
